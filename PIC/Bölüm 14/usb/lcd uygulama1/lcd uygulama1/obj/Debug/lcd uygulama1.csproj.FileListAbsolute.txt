@@ -1,0 +1,21 @@
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\lcd uygulama1.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\lcd uygulama1.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd_uygulama1.Form1.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd_uygulama1.Properties.Resources.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.csproj.GenerateResource.Cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.pdb
+F:\Kitap\uygulama\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.exe
+F:\Kitap\uygulama\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.pdb
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.exe
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.pdb
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\lcd uygulama1.exe
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\lcd uygulama1.pdb
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\UsbLibrary.dll
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\UsbLibrary.xml
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd_uygulama1.Form1.resources
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd_uygulama1.Properties.Resources.resources
+C:\Documents and Settings\Hikko\Belgelerim\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\obj\Debug\lcd uygulama1.csproj.GenerateResource.Cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama1\lcd uygulama1\bin\Debug\UsbLibrary.xml

@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<MCU_DEVICE_FLAGS>
+  <DEVICE>
+    <DEVICE_NAME>SCHEME</DEVICE_NAME>
+    <SETTINGS>
+      <COUNT>39</COUNT>
+      <SETTING0>
+        <NAME>96MHz PLL Prescaler</NAME>
+        <DESCRIPTION>Divide by 5 (20MHz input)</DESCRIPTION>
+      </SETTING0>
+      <SETTING1>
+        <NAME>CPU System Clock Postscaler</NAME>
+        <DESCRIPTION>[OSC1/OSC2 Src: /1][96MHz PLL Src: /2]</DESCRIPTION>
+      </SETTING1>
+      <SETTING2>
+        <NAME>Full-Speed USB Clock Source Selection</NAME>
+        <DESCRIPTION>Clock src from 96MHz PLL/2</DESCRIPTION>
+      </SETTING2>
+      <SETTING3>
+        <NAME>Oscillator</NAME>
+        <DESCRIPTION>HS: USB-HS</DESCRIPTION>
+      </SETTING3>
+      <SETTING4>
+        <NAME>Fail-Safe Clock Monitor Enable</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING4>
+      <SETTING5>
+        <NAME>Internal External Switch Over Mode</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING5>
+      <SETTING6>
+        <NAME>Power Up Timer</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING6>
+      <SETTING7>
+        <NAME>Brown Out Detect</NAME>
+        <DESCRIPTION>Disabled in hardware, SBOREN disabled</DESCRIPTION>
+      </SETTING7>
+      <SETTING8>
+        <NAME>Brown Out Voltage</NAME>
+        <DESCRIPTION>2.0V</DESCRIPTION>
+      </SETTING8>
+      <SETTING9>
+        <NAME>USB Voltage Regulator</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING9>
+      <SETTING10>
+        <NAME>Watchdog Timer</NAME>
+        <DESCRIPTION>Disabled-Controlled by SWDTEN bit</DESCRIPTION>
+      </SETTING10>
+      <SETTING11>
+        <NAME>Watchdog Postscaler</NAME>
+        <DESCRIPTION>1:32768</DESCRIPTION>
+      </SETTING11>
+      <SETTING12>
+        <NAME>CCP2 Mux</NAME>
+        <DESCRIPTION>RC1</DESCRIPTION>
+      </SETTING12>
+      <SETTING13>
+        <NAME>PortB A/D Enable</NAME>
+        <DESCRIPTION>PORTB&lt;4:0&gt; configured as analog inputs on RESET</DESCRIPTION>
+      </SETTING13>
+      <SETTING14>
+        <NAME>Low Power Timer1 Osc enable</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING14>
+      <SETTING15>
+        <NAME>Master Clear Enable</NAME>
+        <DESCRIPTION>MCLR Enabled,RE3 Disabled</DESCRIPTION>
+      </SETTING15>
+      <SETTING16>
+        <NAME>Stack Overflow Reset</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING16>
+      <SETTING17>
+        <NAME>Low Voltage Program</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING17>
+      <SETTING18>
+        <NAME>Dedicated In-Circuit Port {ICD/ICSP}</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING18>
+      <SETTING19>
+        <NAME>Extended Instruction Set Enable bit</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING19>
+      <SETTING20>
+        <NAME>Background Debug</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING20>
+      <SETTING21>
+        <NAME>Code Protect 00800-01FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING21>
+      <SETTING22>
+        <NAME>Code Protect 02000-03FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING22>
+      <SETTING23>
+        <NAME>Code Protect 04000-05FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING23>
+      <SETTING24>
+        <NAME>Code Protect 06000-07FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING24>
+      <SETTING25>
+        <NAME>Code Protect Boot</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING25>
+      <SETTING26>
+        <NAME>Data EE Read Protect</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING26>
+      <SETTING27>
+        <NAME>Table Write Protect 00800-01FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING27>
+      <SETTING28>
+        <NAME>Table Write Protect 02000-03FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING28>
+      <SETTING29>
+        <NAME>Table Write Protect 04000-05FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING29>
+      <SETTING30>
+        <NAME>Table Write Protect 06000-07FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING30>
+      <SETTING31>
+        <NAME>Config. Write Protect</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING31>
+      <SETTING32>
+        <NAME>Table Write Protect Boot</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING32>
+      <SETTING33>
+        <NAME>Data EE Write Protect</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING33>
+      <SETTING34>
+        <NAME>Table Read Protect 00800-01FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING34>
+      <SETTING35>
+        <NAME>Table Read Protect 02000-03FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING35>
+      <SETTING36>
+        <NAME>Table Read Protect 04000-05FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING36>
+      <SETTING37>
+        <NAME>Table Read Protect 06000-07FFF</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING37>
+      <SETTING38>
+        <NAME>Table Read Protect Boot</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING38>
+    </SETTINGS>
+  </DEVICE>
+</MCU_DEVICE_FLAGS>

@@ -1,0 +1,10 @@
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\bin\Debug\pc_usb_veri_girisi.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\bin\Debug\pc_usb_veri_girisi.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\pc_usb_veri_girisi.Form1.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\pc_usb_veri_girisi.Properties.Resources.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\pc_usb_veri_girisi.csproj.GenerateResource.Cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\pc_usb_veri_girisi.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\obj\Debug\pc_usb_veri_girisi.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\bin\Debug\UsbLibrary.dll
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\pc_usb_veri_girisi\pc_usb_veri_girisi\bin\Debug\UsbLibrary.xml

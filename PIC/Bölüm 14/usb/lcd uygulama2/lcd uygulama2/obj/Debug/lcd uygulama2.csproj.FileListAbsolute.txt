@@ -1,0 +1,10 @@
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\bin\Debug\lcd uygulama2.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\bin\Debug\lcd uygulama2.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\bin\Debug\UsbLibrary.dll
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\bin\Debug\UsbLibrary.xml
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\lcd_uygulama2.Form1.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\lcd_uygulama2.Properties.Resources.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\lcd uygulama2.csproj.GenerateResource.Cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\lcd uygulama2.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\lcd uygulama2\lcd uygulama2\obj\Debug\lcd uygulama2.pdb

@@ -1,0 +1,20 @@
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\termometre.Form1.resources
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\termometre.Properties.Resources.resources
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\termometre.csproj.GenerateResource.Cache
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\bin\Debug\termometre.exe
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\bin\Debug\termometre.pdb
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\termometre.exe
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\obj\Debug\termometre.pdb
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\bin\Debug\UsbLibrary.dll
+C:\Users\hikko\AppData\Local\Temporary Projects\termometre\bin\Debug\UsbLibrary.xml
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\termometre.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\termometre.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\bin\Debug\termometre.exe
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\bin\Debug\termometre.pdb
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\bin\Debug\UsbLibrary.dll
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\bin\Debug\UsbLibrary.xml
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\termometre.Form1.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\termometre.Properties.Resources.resources
+C:\Users\hikko\Documents\Visual Studio 2008\Projects\usb_termometre\termometre\termometre\termometre\obj\Debug\termometre.csproj.GenerateResource.Cache
